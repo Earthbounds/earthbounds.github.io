@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Earthbounds/earthbounds.github.io)
-- Live Site URL: [live site](earthbounds.github.io)
+- Live Site URL: [live site](https://earthbounds.github.io)
 
 ## My process
 
@@ -50,7 +50,7 @@ I would like to continue improving Flexbox usage as well as get more comfortable
 ## Author
 
 
-- Frontend Mentor - [@Earthbounds](https://www.frontendmentor.io/profile/@Earthbounds
+- Frontend Mentor - [@Earthbounds](https://www.frontendmentor.io/profile/Earthbounds
 
 
 
